@@ -1,0 +1,40 @@
+{
+    "class_names": {
+        "biodegradable": "Biodegradable",
+        "non_biodegradable": "Non-Biodegradable"
+    },
+    "prototypes": {
+        "biodegradable": {
+            "avg_r": 134.68357910156251,
+            "avg_g": 125.773572265625,
+            "avg_b": 61.905729492187504,
+            "avg_brightness": 107.45429361979168,
+            "green_ratio": 0.23872167968749997,
+            "brown_ratio": 0.5478623046875,
+            "white_ratio": 0.0,
+            "dark_ratio": 0.0079697265625,
+            "bright_ratio": 2.5390625000000002e-05,
+            "plastic_like_ratio": 0.7942470703125,
+            "texture_score": 26.49478234017048,
+            "roughness": 40.49909598948061
+        },
+        "non_biodegradable": {
+            "avg_r": 182.37986816406251,
+            "avg_g": 185.3489462890625,
+            "avg_b": 192.8083447265625,
+            "avg_brightness": 186.8457197265625,
+            "green_ratio": 0.0004736328125,
+            "brown_ratio": 0.0425546875,
+            "white_ratio": 0.40634179687499994,
+            "dark_ratio": 0.007938476562500001,
+            "bright_ratio": 0.5498330078125,
+            "plastic_like_ratio": 0.13168359375,
+            "texture_score": 41.398215103681125,
+            "roughness": 47.542225509533196
+        }
+    },
+    "training_counts": {
+        "biodegradable": 40,
+        "non_biodegradable": 40
+    }
+}
